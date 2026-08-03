@@ -135,8 +135,8 @@ df.to_csv("cleaned_googleplaystore.csv", index=False)
 
 ## Output
 
-- ✔ Loaded the dataset successfully
-- ✔ Removed missing values
-- ✔ Removed duplicate rows
-- ✔ Renamed columns
-- ✔ Saved the cleaned dataset
+- Loaded the dataset successfully
+- Removed missing values
+- Removed duplicate rows
+- Renamed columns
+- Saved the cleaned dataset
